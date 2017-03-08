@@ -1,0 +1,17 @@
+node_modules
+
+dump
+
+.tmp
+
+*.sublime-*
+*.codekit
+
+.DS_Store
+*.log
+*~
+test.js
+createRouteDoc.js
+coverage
+
+migrations/.migrate
